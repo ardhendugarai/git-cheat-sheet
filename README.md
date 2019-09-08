@@ -3,8 +3,8 @@
 
 
 # Why?
-> This is a collection of Android Apps which are open source.  
-> I believe that we can find something interesting and gain helpful skills from an open source app.  
+> This is a collection of Git commands.  
+> I believe that we can find something interesting and learn somthing.  
 > This idea comes from [this project](https://github.com/github/training-kit/blob/master/downloads/github-git-cheat-sheet.md)
 
 
