@@ -1,10 +1,6 @@
 <h2 align="center">  Bengali git-cheat-sheet </h2>
 <br>
 
-<p>
-    <img src="https://drive.google.com/file/d/1KKphbhaUX-_xEVooqHEML5ScFxlznNJ0/view?usp=sharing"  />
-</p>
-
 # Why?
 > This is a collection of Git commands.  
 > I believe that we can find something interesting and learn somthing.  
