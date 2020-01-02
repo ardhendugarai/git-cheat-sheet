@@ -1,8 +1,8 @@
 <h2 align="center">  Bengali git-cheat-sheet </h2>
 <br>
-![git1](https://drive.google.com/file/d/1KKphbhaUX-_xEVooqHEML5ScFxlznNJ0/view?usp=sharing)
+
 <p>
-    <img src="https://drive.google.com/file/d/1KKphbhaUX-_xEVooqHEML5ScFxlznNJ0/view?usp=sharing" width="220" height="240" />
+    <img src="https://drive.google.com/file/d/1KKphbhaUX-_xEVooqHEML5ScFxlznNJ0/view?usp=sharing"  />
 </p>
 
 # Why?
