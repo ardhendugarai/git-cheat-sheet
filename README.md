@@ -1,6 +1,6 @@
 <h2 align="center">  Bengali git-cheat-sheet </h2>
 <br>
-![Alt text](https://drive.google.com/file/d/1KKphbhaUX-_xEVooqHEML5ScFxlznNJ0/view?usp=sharing)
+![Alt text] (https://drive.google.com/file/d/1KKphbhaUX-_xEVooqHEML5ScFxlznNJ0/view?usp=sharing)
 
 
 # Why?
