@@ -1,6 +1,6 @@
 <h2 align="center">  Bengali git-cheat-sheet </h2>
 <br>
-! [ git image ] (https://www.mediafire.com/view/8o62w1oe9he8ozc/git1.png/file)
+![Alt text](https://www.mediafire.com/view/8o62w1oe9he8ozc/git1.png/file)
 
 
 # Why?
