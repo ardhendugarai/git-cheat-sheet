@@ -1,5 +1,6 @@
 <h2 align="center">  Bengali git-cheat-sheet </h2>
 <br>
+![git image](https://github.com/ubuntulover09/git-cheat-sheet/blob/master/git1.png)
 
 
 # Why?
